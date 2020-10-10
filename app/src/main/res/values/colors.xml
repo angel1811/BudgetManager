@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFEB91</color>
+    <color name="colorPrimaryDark">#E6B72F</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorText">#353F51</color>
+    <color name="colorSpent">#EF6262</color>
+    <color name="colorRemaining">#8FBD8F</color>
+
+    <color name="pbBackground">#F3ECEC</color>
+    <color name="colorFood">#FFE187</color>
+    <color name="colorHousehold">#EDB1C6</color>
+    <color name="colorBills">#FFDAC1</color>
+    <color name="colorClothing">#CFF199</color>
+    <color name="colorTransportation">#B5EAD7</color>
+    <color name="colorOther">#C7CEEA</color>
+</resources>

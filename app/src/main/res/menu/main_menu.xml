@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/set_budget"
+        android:title="Set Month's budget"
+        android:icon="@drawable/set_budget"/>
+    <item
+        android:id="@+id/add_expense"
+        android:title="Add Expense"
+        android:icon="@drawable/add_expense"/>
+    <item
+        android:id="@+id/view_expense"
+        android:title="View Expense"
+        android:icon="@drawable/view_expense"/>
+    <item
+        android:id="@+id/history"
+        android:title="Recent history"
+        android:icon="@drawable/history"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/logout"/>
+
+
+</group>
+
+</menu>
