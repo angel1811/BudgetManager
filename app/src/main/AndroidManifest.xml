@@ -9,8 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AllMembers"></activity>
-        <activity android:name=".RegActivity">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".AddExpenses" />
+        <activity android:name=".AllMembers" />
+        <activity android:name=".RegActivity" />
+        <activity android:name=".ViewExpenses">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,10 +21,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".LogInActivity" />
-        <activity android:name=".MainActivity" />
+        <activity android:name=".SetBudget" />
         <activity android:name=".Log_RegActivity" />
         <activity android:name=".Blank" />
-        <activity android:name=".SplashScreen"></activity>
+        <activity android:name=".SplashScreen" />
 
         <meta-data
             android:name="preloaded_fonts"
